@@ -13,6 +13,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
+[facebook]: https://facebook.com/arvinglenn.aguid
 [instagram]: https://www.instagram.com/Gurennnnnn/
 [linkedin]: https://linkedin.com/in/arvin-glenn-aguid-b955a3371
 
